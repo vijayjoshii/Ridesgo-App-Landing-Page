@@ -1,2 +1,2 @@
-# vijayjoshii-Ridesgo-App-Landing-Page
+# Ridesgo-App-Landing-Page
 App landing webpage for Downloading Ridesgo Application
